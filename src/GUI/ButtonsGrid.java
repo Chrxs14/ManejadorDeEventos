@@ -2,7 +2,8 @@ package GUI;
 
 import Events.ChangeColorEvent;
 
-import javax.swing.*;
+import javax.swing.JPanel;
+import javax.swing.JButton;
 import java.awt.*;
 
 
